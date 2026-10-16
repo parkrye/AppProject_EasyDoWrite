@@ -23,7 +23,7 @@
 - 처음 설치 시 "출처를 알 수 없는 앱" 설치 허용 필요. Play 프로텍트가 검사 화면을 띄울 수 있음
 - 업데이트는 새 APK를 같은 방식으로 덮어 설치. 원고 · 설정 유지
 - 앱 안 업데이트 알림 없음. Releases 페이지에서 직접 확인
-- 서명 인증서 SHA-256: `8f72a621fb96721cdabc1d3fa60ed888cb3421a4eae9b9c1490d385f01eaad0a`
+- 서명 인증서 SHA-256: `361872d81583c7f72c743d20ca6bb6e3c8705d442194282a421ba2499d3f08b6`
   (`apksigner verify --print-certs EasyDoWrite-<버전>.apk`로 확인)
 
 ## 개인정보
