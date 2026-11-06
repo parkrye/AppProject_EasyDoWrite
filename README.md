@@ -4,7 +4,7 @@
 
 ## 다운로드
 
-최신 버전 0.2.0 — [Releases 페이지](https://github.com/parkrye/AppProject_EasyDoWrite/releases)에서 `EasyDoWrite-<버전>.apk`를 받아 설치. Android 8.0 이상.
+최신 버전 0.2.1 — [Releases 페이지](https://github.com/parkrye/AppProject_EasyDoWrite/releases)에서 `EasyDoWrite-<버전>.apk`를 받아 설치. Android 8.0 이상.
 
 - 처음 설치 시 "출처를 알 수 없는 앱" 설치 허용 필요. Play 프로텍트가 검사 화면을 띄울 수 있음
 - 업데이트는 새 APK를 같은 방식으로 덮어 설치. 원고 · 설정 유지
